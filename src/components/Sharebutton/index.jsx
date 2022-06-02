@@ -18,8 +18,7 @@ export default function ShareButton() {
   const [show, setShow] = useState(false);
 
   let sizeIcon = 30;
-  const shareUrl =
-    "https://astronomy-picture-of-the-day-three.vercel.app/details";
+  const shareUrl = "https://apod-nasa-delta.vercel.app/details";
 
   return (
     <>
